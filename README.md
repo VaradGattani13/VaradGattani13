@@ -11,7 +11,7 @@ const varad = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Python,C++],
   tools: [React, Node, Express, Machine Learning],
-  interest:[Web3],
+  interest:[Web3,ML],
   nationality: "Indian"
 }
 ```
