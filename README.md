@@ -42,7 +42,7 @@
 <!-- ## Connect with me: -->
 
 ## ❤ Views and Followers:
-<p align='left><img src="![](https://komarev.com/ghpvc/?username=VaradGattani13&style=flat-square&color=green)"/> &nbsp; &nbsp;
+<p align='left><img src="(https://komarev.com/ghpvc/?username=VaradGattani13&style=flat-square&color=green)"/> &nbsp; &nbsp;
 
 <span>
 <a href="https://github.com/VaradGattani13?tab=followers"><img src="https://img.shields.io/github/followers/VaradGattani13?style=social" alt="GitHub Badge"></a></span></p>
