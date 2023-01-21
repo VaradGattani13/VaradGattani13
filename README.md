@@ -23,6 +23,13 @@
 
 
 </br>
+<!-- ## 📊 My Github Stats -->
+
+<h2>📊 My Github Stats:</h2>
+</br>
+(https://github-readme-stats.vercel.app/api?username=VaradGattani13)(https://github.com/VaradGattani13/github-readme-stats)
+
+</br>
 
 
 
