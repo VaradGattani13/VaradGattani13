@@ -15,7 +15,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/varad-gattani-69597a21a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp; &nbsp;
-
 <a href = "https://www.instagram.com/varadgattani13/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp; &nbsp;
 </p>
 
@@ -42,7 +41,8 @@
 <!-- ## Connect with me: -->
 
 ## ❤ Views and Followers:
-<p align='left><img src="(https://komarev.com/ghpvc/?username=VaradGattani13&style=flat-square&color=green)"/> &nbsp; &nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VaradGattani13&label=Profile%20views&color=green&style=flat" alt="VaradGattani13" /> &nbsp; &nbsp;
+
 
 <span>
 <a href="https://github.com/VaradGattani13?tab=followers"><img src="https://img.shields.io/github/followers/VaradGattani13?style=social" alt="GitHub Badge"></a></span></p>
