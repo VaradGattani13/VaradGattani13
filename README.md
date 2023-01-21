@@ -27,7 +27,17 @@
 
 <h2>📊 My Github Stats:</h2>
 </br>
-(https://github-readme-stats.vercel.app/api?username=VaradGattani13)(https://github.com/VaradGattani13/github-readme-stats)
+  <!-- <p align="center" ><img  src="https://github-readme-stats.vercel.app/api?username=VaradGattani13&show_icons=true&locale=en" alt="VaradGattani13" />&nbsp;&nbsp; -->
+<p><img  src="https://github-readme-stats.vercel.app/api?username=VaradGattani13&show_icons=true&locale=en" alt="VaradGattani13" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaradGattani13&" alt="VaradGattani13" /></p> -->
+<!-- <span><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VaradGattani13&" alt="VaradGattani13" /></span> -->
+<br>
+
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VaradGattani13&show_icons=true&locale=en&layout=compact" alt="VaradGattani13" /></p>
+ </p>
+
+
+
 
 </br>
 
