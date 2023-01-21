@@ -23,6 +23,20 @@
 
 
 </br>
+<!-- ## 📊 My Github Stats -->
+
+<h2>📊 My Github Stats:</h2>
+</br>
+  <p align="center" ><img  src="https://github-readme-stats.vercel.app/api?username=VaradGattani13&show_icons=true&locale=en" alt="VaradGattani13" />&nbsp;&nbsp;
+<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=VaradGattani13&show_icons=true&locale=en"  /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VaradGattani13&" alt="%" /></p> -->
+<!-- <span><img  src="https://github-readme-streak-stats.herokuapp.com/?user=VaradGattani13&" alt="" /></span> -->
+  <span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VaradGattani13&show_icons=true&locale=en&layout=compact" alt="" /></span>
+ </p>
+<!-- ## Languages and Tools: -->
+
+
+
 
 <!-- ## Languages and Tools: -->
 
