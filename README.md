@@ -8,10 +8,8 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
 <h1 align="center">Hi 👋, I'm Varad Gattani</h1>
-<h4 align="center">CSE Junior at @IET-DAVV . Currently exploring Web Devlopment and Web3.0 .
+<h4 align="center">CSE Junior at @IET-DAVV . Currently working on  Web Devlopment and exploring Machine Learning.
 </h4>
 <h2>Connect with me:</h2>
 
