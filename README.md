@@ -17,7 +17,9 @@
 
 <a href = "https://www.linkedin.com/in/varad-gattani-69597a21a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp; &nbsp;
 <a href = "https://www.instagram.com/varadgattani13/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp; &nbsp;
+<a href = "https://twitter.com/varad_gattani"><img src="https://icons8.com/icon/xWVjuc9hryql/twitter"/></a>&nbsp; &nbsp;
 </p>
+
 
 
 </br>
