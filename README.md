@@ -21,7 +21,7 @@
 
 
 </br>
-<!-- ## 📊 My Github Stats -->
+<!-- <!-- ## 📊 My Github Stats -->
 
 <h2>📊 My Github Stats:</h2>
 </br>
@@ -34,7 +34,7 @@
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=VaradGattani13&show_icons=true&locale=en&layout=compact" alt="VaradGattani13" /></p>
  </p>
 
-
+ -->
 
 
 </br>
