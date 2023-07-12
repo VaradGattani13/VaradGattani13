@@ -49,6 +49,16 @@
    
    </br>
 
+   
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaradGattani13&theme=2077)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaradGattani13&theme=2077) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaradGattani13&theme=2077) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VaradGattani13&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VaradGattani13&theme=2077)
+
+</div>
+
 <!-- </br></br></br> -->
 <!-- ## Connect with me: -->
 
