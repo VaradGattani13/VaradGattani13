@@ -11,7 +11,7 @@
 <h1 align="center">Namaste Folks 👋, I'm Varad Gattani</h1>
 <h2 align="center"> Currently Working as Technology & Business Associate @ZS
  
-<h4 align="center">. Currently working as Lead Backend Developer, Data Science and Big Data.
+<h4 align="center">Lead Backend Developer, Data Science and Big Data.
  
 </h4>
 <h2>Connect with me:</h2>
