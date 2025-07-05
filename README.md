@@ -8,8 +8,11 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<h1 align="center">Hi 👋, I'm Varad Gattani</h1>
-<h4 align="center">CSE Senior at @IET-DAVV . Currently working on  Web Devlopment(MERN Stack) and exploring Machine Learning.
+<h1 align="center">Namaste Folks 👋, I'm Varad Gattani</h1>
+<h2 align="center"> Currently Working as Technology & Business Associate @ZS
+ 
+<h4 align="center">. Currently working as Lead Backend Developer, Data Science and Big Data.
+ 
 </h4>
 <h2>Connect with me:</h2>
 
