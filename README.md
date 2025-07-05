@@ -48,7 +48,7 @@
  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  &nbsp;
-  <a href="https://https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/?size=10&id=38561&format=png&color=000000"/> </a>  &nbsp;
+  <a href="https://https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=38561&format=png&color=000000"/> </a>  &nbsp;
    </p>
    
    </br>
